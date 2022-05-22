@@ -1,3 +1,8 @@
+# Project submission info (Andrey Baranov)
+W&B project link:https://wandb.ai/tiesteaz_team/nyc_airbnb
+
+Github project: https://github.com/tiesteaz/nd0821-c2-build-model-workflow-starter
+
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
 You are working for a property management company renting rooms and properties for short periods of 
 time on various rental platforms. You need to estimate the typical price for a given property based 
