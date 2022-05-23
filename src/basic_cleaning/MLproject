@@ -23,11 +23,11 @@ entry_points:
 
       min_price:
         description: Min price value
-        type: string
+        type: float
 
       max_price:
         description: Max price value
-        type: string
+        type: float
 
 
     command: >-
